@@ -1,2 +1,7 @@
-# SULI-2022
-Notebook and environments for the 2022 Introduction to Fusion Energy and Plasma Physics Course by SULI
+# Environment for SULI Computational Workshop 2022
+
+To create an environment that you can run from your browser with
+everything you need for the SULI workshop, click on the following
+Binder link.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/SULI-2022/HEAD)
