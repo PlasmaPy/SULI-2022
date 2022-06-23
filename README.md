@@ -14,7 +14,7 @@ following badges to open the notebook in Google Colab or Binder.
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/SULI-2022/main?labpath=tutorial.ipynb) (times out after 10 minutes of inactivity)
 
-[install PlasmaPy]: https://docs.plasmapy.org/en/latest/install.html
+[install PlasmaPy]:https://docs.plasmapy.org/en/latest/install.html#installing-plasmapy-with-anaconda-navigator
 [install Jupyter]: https://docs.jupyter.org/en/latest/install/notebook-classic.html
 [notebook]: https://raw.githubusercontent.com/PlasmaPy/SULI-2022/main/tutorial.ipynb
 [open the notebook with Jupyter]: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
@@ -22,9 +22,9 @@ following badges to open the notebook in Google Colab or Binder.
 ## Running the notebook locally
 
 While we recommend using one of the above links to follow along with
-the tutorial in your web browser, you may instead run the notebook on
-your own computer.  If you would prefer to run the notebook on your
-own computer, please follow these instructions to [install PlasmaPy]
-and [install Jupyter].  Then download the [notebook] (click "Save
-As"), and follow these instructions to [open the notebook with
+the tutorial in your web browser, it is also possible to run the
+notebook on your own computer.  If you would prefer to run the
+notebook locally, please follow these instructions to [install
+PlasmaPy] and [install Jupyter].  Then download the [notebook] (click
+"Save As"), and follow these instructions to [open the notebook with
 Jupyter].
